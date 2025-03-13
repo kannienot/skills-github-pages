@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Глобализация английского языка</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header>
+    <h1>Глобализация английского языка: Полезные ссылки</h1>
+  </header>
+
+  <main>
+    <section class="introduction">
+      <h2>Что такое глобализация английского языка?</h2>
+      <p>Глобализация английского языка — это процесс, в ходе которого английский язык приобретает все большее распространение и влияние в различных сферах жизни по всему миру, включая экономику, образование, науку, культуру и технологии.</p>
+    </section>
+
+    <section class="links">
+      <h2>Полезные ссылки:</h2>
+      <ul>
+        <li>
+          <a href="https://en.wikipedia.org/wiki/Global_spread_of_English" target="_blank" rel="noopener noreferrer">
+            Википедия: Глобальное распространение английского языка
+          </a>
+          <p>Обзор распространения английского языка и его влияния.</p>
+        </li>
+        <li>
+          <a href="https://www.teachingenglish.org.uk/article/global-english-whose-language" target="_blank" rel="noopener noreferrer">
+            TeachingEnglish (British Council): Глобальный английский - чей это язык?
+          </a>
+          <p>Статья о различных аспектах глобального английского и его владении.</p>
+        </li>
+        <li>
+          <a href="https://www.cambridge.org/elt/blog/2019/07/25/global-english-promise-threat/" target="_blank" rel="noopener noreferrer">
+            Cambridge ELT: Глобальный английский: обещание или угроза?
+          </a>
+          <p>Блог-пост о перспективах и вызовах глобального английского.</p>
+        </li>
+        <li>
+          <a href="https://www.ef.ru/epi/" target="_blank" rel="noopener noreferrer">
+            EF EPI (English Proficiency Index): Индекс владения английским языком
+          </a>
+          <p>Рейтинг стран по уровню владения английским языком.</p>
+        </li>
+        <li>
+          <a href="https://www.linguahouse.com/linguafiles/english-as-a-global-language" target="_blank" rel="noopener noreferrer">
+            LinguaHouse: Английский как глобальный язык
+          </a>
+          <p>Материалы для изучения темы "Английский как глобальный язык".</p>
+        </li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Сайт для проекта о глобализации английского языка</p>
+  </footer>
+
+</body>
+</html>
